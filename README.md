@@ -111,3 +111,56 @@ DIVIDE([Total Cancelled], [Total Bookings], 0)
 ## 🔹 Author
 
 Shahid Ali
+
+
+
+## 🔄 Dashboard Workflow
+
+1. **Data Source**
+
+   * Ride booking dataset (Bookings, Revenue, Distance, Ratings)
+
+2. **Data Cleaning (Power Query)**
+
+   * Missing values handled
+   * Data types fixed
+   * Columns structured
+
+3. **Data Modeling**
+
+   * Fact table: rideBookings
+   * Dimension: Date, Vehicle, Payment
+   * Relationships created
+
+4. **DAX Layer**
+
+   * KPIs (Bookings, Revenue, Cancellation %)
+   * Aggregations & calculated measures
+
+5. **Visualization Layer**
+
+   * KPI Cards
+   * Pie charts (Booking status, cancellations)
+   * Bar charts (Revenue, distance)
+   * Line charts (Trends)
+
+6. **Interactivity**
+
+   * Slicers (Date, Vehicle, Payment)
+   * Cross-filtering
+   * Drill-down enabled
+
+7. **UI/UX Layer**
+
+   * Clean layout
+   * Color-coded sections
+   * Navigation buttons
+
+8. **Publishing**
+
+   * Published to Power BI Service
+   * Shareable dashboard link
+
+9. **End User Flow**
+
+   * Select filters → View KPIs → Drill into insights → Take decisions
