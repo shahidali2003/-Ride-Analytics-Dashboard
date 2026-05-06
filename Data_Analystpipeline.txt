@@ -1,0 +1,100 @@
+Slide 1 — Cover 🚀
+DATA ANALYTICS WORKFLOW
+From Raw Data → Business Decisions
+
+---
+
+Slide 2 — The Reality ⚡
+Most people learn tools 🛠️
+Very few understand the **flow** 🔄
+
+That’s the difference between
+→ a learner 📚
+→ and a real analyst 💼
+
+---
+
+Slide 3 — Step 1: Data Sources 📂
+Everything starts with raw data
+
+• Databases 🗄️
+• Excel / CSV 📊
+• APIs 🌐
+
+Raw data is messy, incomplete, unstructured ⚠️
+
+---
+
+Slide 4 — Step 2: SQL (Extract) 🧠
+Now we ask the right questions
+
+• SELECT
+• JOIN
+• FILTER
+• AGGREGATE
+
+Goal: Pull only what actually matters 🎯
+
+---
+
+Slide 5 — Step 3: Clean & Transform 🧹
+Real work starts here
+
+• Remove duplicates
+• Handle missing values
+• Standardize formats
+
+Bad data = bad insights ❌
+
+---
+
+Slide 6 — Step 4: Analysis (Python / Pandas) 🐍
+Now we find patterns
+
+• Trends 📈
+• Correlations 🔗
+• Behavior 👥
+
+Data starts telling a story here 📖
+
+---
+
+Slide 7 — Step 5: Visualization (Power BI) 📊
+Turn numbers into visuals
+
+• Dashboards 📺
+• KPIs 📌
+• Charts 📉
+
+Because stakeholders don’t read tables — they read visuals 👀
+
+---
+
+Slide 8 — Step 6: Insights 💡
+Final output
+
+• What’s happening?
+• Why is it happening?
+• What should we do next?
+
+This is where business decisions happen 🏆
+
+---
+
+Slide 9 — My Approach 🔥
+I don’t just use tools
+I connect the pipeline 🔗
+
+End-to-end thinking = real impact 💼
+
+---
+
+Slide 10 — CTA 📩
+If you're learning Data Analytics
+Focus on the **workflow, not just tools**
+
+DM me for full roadmap + resources 🚀
+
+#DataAnalytics #PowerBI #SQL #Python #Excel #BusinessIntelligence #AnalyticsJourney
+
+
